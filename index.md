@@ -7,7 +7,7 @@ github_url: https://github.com/Chris-Johnston/CrowOfJudgement
 github_short: Chris-Johnston/CrowOfJudgement
 ---
 
-An LED Christmas ornament based on the "Crow of Judgement" meme.
+An LED Christmas ornament based on the "Crow of Judgement" meme. [GitHub Link](https://github.com/Chris-Johnston/CrowOfJudgement)
 
 ![Image of the crow of judgement ornament in use.](img/greetings.png)
 
