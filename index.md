@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Crow of Judgement
 description: A glowing LED Christmas ornament based on the 'Crow of Judgement' meme.
 image: img/thumbnail.jpg
