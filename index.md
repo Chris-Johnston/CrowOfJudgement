@@ -1,3 +1,9 @@
+---
+layout: page
+description: A glowing LED Christmas ornament based on the "Crow of Judgement" meme.
+image: img/thumbnail.jpg
+---
+
 # Crow of Judgement
 
 [GitHub Link](https://github.com/Chris-Johnston/CrowOfJudgement)
